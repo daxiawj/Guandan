@@ -35,8 +35,3 @@ elif nplayers == 8:
 
 else:
   print 'Please input number of players 4, 6 or 8'
-
-
-
-
-
